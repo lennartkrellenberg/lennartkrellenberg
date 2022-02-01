@@ -5,5 +5,5 @@ It all started when I had my own Minecraft server with friends and we wanted to 
 Since nearly 1,5 years I am working with Flutter to develop apps for Android and Ios.
 Along the way I've also been working with Gatsby to create websites for friends, school or just for fun.
 
-- 📫 How to reach me: https://www.lennartkrellenberg.com/
+
 
